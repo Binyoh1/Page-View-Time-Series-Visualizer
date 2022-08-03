@@ -1,7 +1,7 @@
 # Page View Time Series Visualizer
 The third certification project for the [Data Analysis with Python](https://www.freecodecamp.org/learn/data-analysis-with-python/) course [freeCodeCamp](https://www.freecodecamp.org/learn/) platform.
 
-This project requires the following tasks to be accomplished (though I've added some additional insights for an added personal touch):
+This project requires the following tasks to be accomplished (though I've added some additional insights for a more personal touch):
 - Use Pandas to import the data from "fcc-forum-pageviews.csv". Set the index to the date column.
 - Clean the data by filtering out days when the page views were in the top 2.5% of the dataset or bottom 2.5% of the dataset.
 - Create a draw_line_plot function that uses Matplotlib to draw a line chart similar to "examples/Figure_1.png". The title should be Daily freeCodeCamp Forum Page Views 5/2016-12/2019. The label on the x axis should be Date and the label on the y axis should be Page Views.
